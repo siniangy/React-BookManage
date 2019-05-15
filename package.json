@@ -1,25 +1,25 @@
 {
-  "name": "bookManageDemo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "dev": "roadhog server",
-    "server": "node server/index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "antd": "^3.6.2",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0",
-    "react-prop-types": "^0.4.0",
-    "react-router": "^4.2.0",
-    "react-router-dom": "^4.2.2"
-  },
-  "devDependencies": {
-    "babel-plugin-import": "^1.7.0",
-    "json-server": "^0.13.0"
-  }
+    "name": "",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "roadhog server",
+        "server": "node server/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "antd": "^3.6.2",
+        "react": "^16.4.0",
+        "react-dom": "^16.4.0",
+        "react-prop-types": "^0.4.0",
+        "react-router": "^4.2.0",
+        "react-router-dom": "^4.2.2"
+    },
+    "devDependencies": {
+        "babel-plugin-import": "^1.7.0",
+        "json-server": "^0.13.0"
+    }
 }
